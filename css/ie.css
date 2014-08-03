@@ -1,0 +1,19 @@
+/*
+Title:      	Tudor Rose IE Fixes Stylesheet
+Author:     	Sam Rayner - http://samrayner.com
+Updated:    	June 08
+*/
+
+
+/* IE7
+================================================== */
+
+h2 { top: -2em; }
+
+
+/* IE6
+================================================== */
+
+* html h2 { margin-bottom: -5em; }
+
+* html #content { height: 1%; }
